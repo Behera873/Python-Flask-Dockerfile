@@ -35,7 +35,7 @@ docker run -d -p 5000:5000 flask-app
 
 Open in browser:
 
-http://localhost:5000
+[http://localhost:5000](http://18.207.214.67:5000/)
 
 🌐 Deploy on AWS EC2
 
